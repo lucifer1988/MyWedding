@@ -1077,8 +1077,21 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
-        public static final int shadow=0x7f020058;
+        public static final int background=0x7f020057;
+        public static final int delete=0x7f020058;
+        public static final int ic_launcher=0x7f020059;
+        public static final int icon_default=0x7f02005a;
+        public static final int iphone5blue=0x7f02005b;
+        public static final int iphone5green=0x7f02005c;
+        public static final int iphone5purple=0x7f02005d;
+        public static final int iphone5red=0x7f02005e;
+        public static final int iphone5yellow=0x7f02005f;
+        public static final int launch=0x7f020060;
+        public static final int location=0x7f020061;
+        public static final int myweddingicon1=0x7f020062;
+        public static final int picplaceholder=0x7f020063;
+        public static final int shadow=0x7f020064;
+        public static final int talk_bg_left=0x7f020065;
     }
     public static final class id {
         public static final int action_bar=0x7f06001c;
